@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/rodolfoHOk/fullcycle.go-intensivo-2/internal/entity"
+	"github.com/rodolfoHOk/fullcycle.go-intensivo-2/project-1/internal/entity"
 	"github.com/stretchr/testify/suite"
 
 	// sqlite3 driver
