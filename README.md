@@ -23,3 +23,11 @@
 - baixar dependências:
 
         go mod tidy
+
+## Projetos da Imersão:
+
+- [Order consumer](project-1/README.md)
+
+- [OpenCV face scan](project-2/README.md)
+
+- [Integration WhatsApp ChatGPT](project-3/README.md)

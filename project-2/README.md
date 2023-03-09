@@ -1,4 +1,4 @@
-# Go Intensivo 2 - Face Scan with OpenCV
+# Go Intensivo 2 - OpenCV face scan
 
 > Evento Go Intensivo 2 FullCycle
 

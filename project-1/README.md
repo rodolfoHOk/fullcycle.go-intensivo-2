@@ -1,4 +1,4 @@
-# Go Intensivo 2 - Project Order consumer
+# Go Intensivo 2 - Order consumer
 
 > Evento Go Intensivo 2 FullCycle
 
@@ -41,8 +41,6 @@
 
 - terminal: go run cmd/consumer/main.go
 
-## Test project
-
 - browser:
 
         access:http://localhost:9021
@@ -76,7 +74,7 @@
           }
         click on button: Publish message
 
-## stop project
+### To stop
 
 - terminal: ctrl + c
 
